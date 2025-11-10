@@ -155,7 +155,7 @@ sqlite3 (built-in)
 ## 🧑‍💻 Author
 
 **Arun Kamble**  
-📧 arunhari.kamble1@vodafone.com  
+📧 arunkkumar2207j@gmail.com  
 💼 Python Developer | AI Enthusiast  
 🌐 *Developed as part of IITM Pravartak Python Project Practice Series*
 

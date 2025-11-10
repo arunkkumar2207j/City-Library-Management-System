@@ -1,0 +1,6 @@
+streamlit
+flask
+flasgger
+pandas
+matplotlib
+sqlite3 (built-in)
